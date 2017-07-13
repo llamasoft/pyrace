@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+*.egg
+build/
+dist/
+docs/_build/
+pyrace.egg-info/
